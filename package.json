@@ -10,8 +10,16 @@
   "author": "Mahabub Alam",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.0.1",
+    "colors": "^1.4.0",
     "dotenv": "^16.0.1",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "jwtoken": "^0.0.0",
+    "mongoose": "^6.5.3",
+    "morgan": "^1.10.0",
+    "node-geocoder": "^4.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
